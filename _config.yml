@@ -1,0 +1,28 @@
+name: jdalrymple
+favicon: null
+layout_spectrum: 0.851540464675054
+typography_spectrum: 0.3732280503027141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.29571390617638826
+  lightness: 0.5750111546367407
+  saturation: 0.27633315371349454
+  rhythmicContrast: 0.23323752102442086
+purpose: []
